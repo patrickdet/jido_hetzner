@@ -69,6 +69,10 @@ def deps do
 end
 ```
 
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or associated with Hetzner Online GmbH. "Hetzner" is a trademark of Hetzner Online GmbH.
+
 ## Testing
 
 ```bash
