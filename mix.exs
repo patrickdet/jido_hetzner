@@ -21,7 +21,7 @@ defmodule JidoHetzner.MixProject do
 
   defp deps do
     [
-      {:jido_shell, path: "../jido_shell"},
+      {:jido_shell, github: "agentjido/jido_shell"},
       {:req, "~> 0.5"},
       {:jason, "~> 1.4"},
       {:bypass, "~> 2.1", only: :test},
